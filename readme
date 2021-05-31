@@ -1,1 +1,0 @@
-To run the code call ./Simmulation_openmp -w [number of wolves] -s [number of sheep] [size of board] [filename]
